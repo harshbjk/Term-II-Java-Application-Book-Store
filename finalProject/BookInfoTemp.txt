@@ -1,0 +1,4 @@
+#01, Beloved Toni, Morrison, 12.990000
+#02, The Great Gatsby, F. Scott Fitzgerald, 13.99
+#03, Anna Karenina, Leo Tolstoy, 12.5
+#04, To Kill a Mockingbird, Harper Lee, 14.0
